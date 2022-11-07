@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Cross-Platform
 - 🌱 I’m currently learning .NET MAUI
 - 💬 Ask me about C# and .NET
-- 📫 How to reach me: [Instagram](@mohsenhnsj)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/mohsenhnsj/)
 
 <!--
 **MohsenHNSJ/MohsenHNSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
