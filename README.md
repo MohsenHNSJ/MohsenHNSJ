@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Cross-Platform application to create, manage and connect to a VPN server
+- 🔭 ...
 - 🌱 I’m currently learning .NET MAUI
 - 💬 Ask me about C# and .NET
 - 📫 How to reach me: [Instagram](https://www.instagram.com/mohsenhnsj/)
