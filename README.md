@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 ...
-- 🌱 I’m currently learning .NET MAUI
-- 💬 Ask me about C# and .NET
+- Working on various stuff, currently trading 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/mohsenhnsj/)
 
 <!--
