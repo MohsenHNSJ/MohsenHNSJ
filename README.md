@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Working on various stuff, currently trading 
+- Working on various stuff, currently python and trading 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/mohsenhnsj/)
 
 <!--
