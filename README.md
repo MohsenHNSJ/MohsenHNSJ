@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- Working on various stuff, currently python and trading 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/mohsenhnsj/)
+- Working on various stuff, currently python and trading
 
 <!--
 **MohsenHNSJ/MohsenHNSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
